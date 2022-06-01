@@ -23,10 +23,10 @@
         padding: 14px;
         width: 150px;
         font-weight: 500;
-        position:;
     }
 
     .review {
+        display: block;
         width: 250px;
         margin: auto;
         height: 50px;
